@@ -1,0 +1,13 @@
+# LLM + Agent
+agno
+openai
+
+# Database
+psycopg2-binary
+
+# Data handling (Excel → Postgres)
+pandas
+openpyxl
+
+# Utilities
+python-dotenv
